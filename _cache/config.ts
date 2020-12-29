@@ -180,7 +180,7 @@ export default {
        * @type {string}
        * @see https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
        */
-      token: process.env.GITHUB_TOKEN || 'db2fc8ac0bd6fc11b862287b8fe6299ea26f6904',
+      token: process.env.GITHUB_TOKEN || '',
 
       /**
        * Various configurations are stored that will filter
