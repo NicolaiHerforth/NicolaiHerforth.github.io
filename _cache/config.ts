@@ -152,6 +152,8 @@ export default {
       'CSS',
       'Tensorflow',
       'Keras',
+      'Google Cloud',
+      'Django',
       'LaTeX',
       'MS Office',
     ],
@@ -260,9 +262,10 @@ export default {
 
           //   ], revert: true, more: ''
           // }
-          { attr: 'owner.login', values: /gocode/i, revert: true, more: '' },
-          { attr: 'owner.login', values: /lena/i, revert: true, more: '' },
 
+          // Include python
+          { attr: 'language', values: ['Python', 'Jupyter Notebook'], revert: false, more: '' },
+          // { attr: 'language', values: 'Jupyter Notebook', revert: false, more: '' },
         ],
       },
 
