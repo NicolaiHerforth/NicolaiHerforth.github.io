@@ -123,7 +123,7 @@ export default {
      */
     socialMedia: [
       { name: 'Github', icon: 'github', link: 'https://github.com/NicolaiHerforth' },
-      { name: 'LinkedIn', icon: 'linkedin', link: 'https://github.com/NicolaiHerforth' },
+      { name: 'LinkedIn', icon: 'linkedin', link: 'https://www.linkedin.com/in/nicolai-herforth-64966b105/' },
       { name: 'Mail', icon: 'mail', link: 'mailto:nicolaiherforth@gmail.com' },
     ],
 
